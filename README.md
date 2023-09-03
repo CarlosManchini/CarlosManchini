@@ -1,7 +1,7 @@
 ## Olá 👋
 
 
-Welcome to my GitHub page! I'm Carlos, a statistician with both bachelor's and master's degrees, deeply passionate about uncovering hidden insights within data and the art of modeling the complexities of the real world. Embracing the realm of Data Science, I've uncovered the potential of predictive analysis and extracting value from data, all while applying my expertise in statistical modeling and programming to enable smart decision-making.
+Welcome to my GitHub profile! I'm Carlos, a statistician with both bachelor's and master's degrees, deeply passionate about uncovering hidden insights within data and the art of modeling the complexities of the real world. Embracing the realm of Data Science, I've uncovered the potential of predictive analysis and extracting value from data, all while applying my expertise in statistical modeling and programming to enable smart decision-making.
 
 My most recent contribution in the job market as a statistical modeling analyst involved developing Collection/Behavior Score models and decision trees to monitor credit risk and enhance debt recovery. My research interests include deep learning models, NLP, data privacy, Bayesian statistical learning, and ensemble models. I have advanced programming knowledge in R, LaTeX and Shiny, as well as a good understanding of SQL, C, Python, Ox,  and LaTeX.
 
