@@ -3,7 +3,10 @@
 
 Welcome to my GitHub profile! I'm Carlos, a statistician with both bachelor's and master's degrees, deeply passionate about uncovering hidden insights within data and the art of modeling the complexities of the real world. Embracing the realm of Data Science, I've uncovered the potential of predictive analysis and extracting value from data, all while applying my expertise in statistical modeling and programming to enable smart decision-making.
 
-My most recent contribution in the job market as a statistical modeling analyst involved developing models to monitor credit risk and enhance debt recovery. My research interests include deep learning models, NLP, data privacy, Bayesian statistical learning, and ensemble models. I have advanced programming knowledge in R, LaTeX and Shiny, as well as a good understanding of SQL, C, Python and Ox.
+<!--
+I am a data scientist with a master's degree in statistics from UFPE, where I conducted research on cybersecurity and privacy in personal data applied to regression models. I have published a paper on this topic in a reputable journal and received a CAPES scholarship for my academic excellence.
+-->
+For more than two years, I worked as a data scientist at Henry Schein, a global leader in healthcare products and services. I established the statistical modeling area for credit and collection from the ground up, achieving significant increases in debt recovery, cost savings, and process automation. I developed and implemented end-to-end machine learning models and devised strategies based on data-driven insights. My research interests include deep learning models, NLP, data privacy, Bayesian statistical learning, and ensemble models. I have advanced programming knowledge in R, LaTeX and Shiny, as well as a good understanding of SQL, C, Python and Ox.
 
 This Github page will host some of my works, projects and codes including my research.  I am enthusiastic about collaboration and engaging in discussions about fresh ideas and I hope this page will help others interested in machine learning and statistical modeling. Don't hesitate to reach out if you have any questions or would like to share your thoughts – I'm here to connect and learn together. 
 
